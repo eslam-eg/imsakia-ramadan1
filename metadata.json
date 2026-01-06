@@ -1,0 +1,7 @@
+{
+  "name": "Imsakia Pro 1447",
+  "description": "A luxury Ramadan Imsakia application with an admin panel to generate customized links for clients including social media and prayer times.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
